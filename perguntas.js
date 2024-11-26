@@ -6,8 +6,8 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'Qual a capital do Estudos Unidos?',
-    'A capital da França é Washington, D.C.'
+    'Qual a capital da Espanha?',
+    'A capital da Espanha é Madrid'
 )
 
 criaCartao(
@@ -32,4 +32,10 @@ criaCartao(
     'Ciências',
     'O que é a fotossíntese?',
     'É o processo pelo qual as plantas verdes e alguns organismos usam a luz do sol para transformar o CO2 e a água em açúcares e oxigênio.'
+)
+
+criaCartao(
+    'Lingua Portuguesa',
+    'O que é verbo?',
+    'O verbo é palavra que exprime ação, estado, mudança de estado, fenômeno da natureza. É a classe de palavras que apresenta mais flexões.'
 )
