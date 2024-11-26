@@ -21,6 +21,7 @@ criaCartao(
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
 )
+
 criaCartao(
     'Matemática',
     'O que é que aumenta 50% do valor quando está de cabeça para baixo? ?',
