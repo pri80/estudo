@@ -1,6 +1,6 @@
 criaCartao(
     'Programação',
-    'O que é CSS?'
+    'O que é CSS?',
     'O CSS é uma linguagem de programação'
 )
 
