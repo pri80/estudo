@@ -11,9 +11,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Física',
+    'Quais são as 3 leis de Newton?',
+    'Lei da Inércia, Princípio Fundamental da Dinâmica e Lei da Ação e Reação'
 )
 
 criaCartao(
@@ -26,4 +26,10 @@ criaCartao(
     'Matemática',
     'O que é que aumenta 50% do valor quando está de cabeça para baixo? ?',
     'O seis, que vira nove.'
+)
+
+criaCartao(
+    'Ciências',
+    'O que é a fotossíntese?',
+    'É o processo pelo qual as plantas verdes e alguns organismos usam a luz do sol para transformar o CO2 e a água em açúcares e oxigênio.'
 )
